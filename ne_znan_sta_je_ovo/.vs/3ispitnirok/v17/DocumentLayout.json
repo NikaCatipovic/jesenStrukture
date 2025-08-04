@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\jesenStukture\\3ispitnirok\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F16044BC-5DE5-44CE-8981-FE1508C3CA55}|3ispitnirok.vcxproj|C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\jesenStukture\\3ispitnirok\\treciIspitniRok.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F16044BC-5DE5-44CE-8981-FE1508C3CA55}|3ispitnirok.vcxproj|solutionrelative:treciIspitniRok.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "treciIspitniRok.c",
+              "DocumentMoniker": "C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\jesenStukture\\3ispitnirok\\treciIspitniRok.c",
+              "RelativeDocumentMoniker": "treciIspitniRok.c",
+              "ToolTip": "C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\jesenStukture\\3ispitnirok\\treciIspitniRok.c",
+              "RelativeToolTip": "treciIspitniRok.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-27T11:10:31.99Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

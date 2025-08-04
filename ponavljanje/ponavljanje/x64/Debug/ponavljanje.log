@@ -1,0 +1,3 @@
+﻿  ponavljanje.c
+C:\Users\nikac\OneDrive\Radna površina\jesenStukture\ponavljanje\ponavljanje.c(29,8): warning C4047: '==': 'Node *' differs in levels of indirection from 'void *(__cdecl *)(size_t)'
+  ponavljanje.vcxproj -> C:\Users\nikac\OneDrive\Radna površina\jesenStukture\ponavljanje\x64\Debug\ponavljanje.exe

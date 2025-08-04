@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\jesenStukture\\dodavanjeElemenataNaPocetak\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6283A5-DCDD-4B17-8684-D2D809DEF089}|dodavanjeElemenataNaPocetak.vcxproj|C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\jesenStukture\\dodavanjeElemenataNaPocetak\\AddStart.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8B6283A5-DCDD-4B17-8684-D2D809DEF089}|dodavanjeElemenataNaPocetak.vcxproj|solutionrelative:AddStart.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddStart.c",
+              "DocumentMoniker": "C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\jesenStukture\\dodavanjeElemenataNaPocetak\\AddStart.c",
+              "RelativeDocumentMoniker": "AddStart.c",
+              "ToolTip": "C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\jesenStukture\\dodavanjeElemenataNaPocetak\\AddStart.c*",
+              "RelativeToolTip": "AddStart.c*",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-07-20T16:24:39.008Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

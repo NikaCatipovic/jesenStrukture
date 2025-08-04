@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\jesenStukture\\PROBNI_ZAD_inventura\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC60E097-6AF5-4B35-AD31-4732C304DEEB}|PROBNI_ZAD_inventura.vcxproj|C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\jesenStukture\\PROBNI_ZAD_inventura\\inventura.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AC60E097-6AF5-4B35-AD31-4732C304DEEB}|PROBNI_ZAD_inventura.vcxproj|solutionrelative:inventura.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC60E097-6AF5-4B35-AD31-4732C304DEEB}|PROBNI_ZAD_inventura.vcxproj|C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\jesenStukture\\PROBNI_ZAD_inventura\\inventura.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AC60E097-6AF5-4B35-AD31-4732C304DEEB}|PROBNI_ZAD_inventura.vcxproj|solutionrelative:inventura.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "inventura.txt",
+              "DocumentMoniker": "C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\jesenStukture\\PROBNI_ZAD_inventura\\inventura.txt",
+              "RelativeDocumentMoniker": "inventura.txt",
+              "ToolTip": "C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\jesenStukture\\PROBNI_ZAD_inventura\\inventura.txt",
+              "RelativeToolTip": "inventura.txt",
+              "ViewState": "AgIAAKYAAAAAAAAAAAAuwMIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-08-04T09:13:34.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "inventura.c",
+              "DocumentMoniker": "C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\jesenStukture\\PROBNI_ZAD_inventura\\inventura.c",
+              "RelativeDocumentMoniker": "inventura.c",
+              "ToolTip": "C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\jesenStukture\\PROBNI_ZAD_inventura\\inventura.c",
+              "RelativeToolTip": "inventura.c",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAACkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-03T17:05:59.352Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

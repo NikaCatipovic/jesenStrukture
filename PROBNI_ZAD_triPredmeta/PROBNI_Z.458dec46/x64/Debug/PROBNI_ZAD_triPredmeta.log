@@ -1,0 +1,5 @@
+﻿  tri_predmeta.c
+C:\Users\nikac\OneDrive\Radna površina\jesenStukture\PROBNI_ZAD_triPredmeta\tri_predmeta.c(44,10): warning C4090: 'function': different 'const' qualifiers
+C:\Users\nikac\OneDrive\Radna površina\jesenStukture\PROBNI_ZAD_triPredmeta\tri_predmeta.c(45,10): warning C4090: 'function': different 'const' qualifiers
+C:\Users\nikac\OneDrive\Radna površina\jesenStukture\PROBNI_ZAD_triPredmeta\tri_predmeta.c(46,10): warning C4090: 'function': different 'const' qualifiers
+  PROBNI_ZAD_triPredmeta.vcxproj -> C:\Users\nikac\OneDrive\Radna površina\jesenStukture\PROBNI_ZAD_triPredmeta\x64\Debug\PROBNI_ZAD_triPredmeta.exe
