@@ -71,7 +71,7 @@ void otvaranje(char* dat, Item* p) {
         lista(p, naziv, kolicina);
     }
 
-    fclose(fp);
+    fclose(fp); //NIKA NE SMIS OVO ZABORAVIT
 }
 
 void lista(Item* p, char* naziv, int kolicina) {
@@ -79,7 +79,9 @@ void lista(Item* p, char* naziv, int kolicina) {
     Item* prev = p;
     Item* curr = p->next;
 
-    while (curr != NULL && strcmp(curr->name, naziv) < 0) {
+    while (curr != NULL && strcmp(curr->name, naziv) < 0) { //abecedno sortiranje
+                                                            
+                                                           
         prev = curr;
         curr = curr->next;
     }
@@ -111,7 +113,7 @@ void printList(Item* p) {
     printf("\n");
 }
 
-void freeList(Item* p) {
+void freeList(Item* p) { //NIKA NE SMIS OVO ZABORAVIT 
     Item* curr = p->next;
     Item* temp;
     while (curr != NULL) {
