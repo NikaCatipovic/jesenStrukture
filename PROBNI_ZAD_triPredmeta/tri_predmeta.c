@@ -5,6 +5,7 @@ a) Nakon toga potrebno je kreirati novu listu koja sadrži imena studenata koji s
 predmeta.
 b) Nadopuniti zadatak pod a) tako da se ispiše nova vezana lista koja osim što sadrži imena
 studenata, sadrži i njihovu prosjeènu ocjenu iz ta tri predmeta.*/
+
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <stdlib.h>
@@ -18,7 +19,7 @@ typedef struct student_ {
 }student;
 
 void reading(char* dat, student* p);
-void addE(student* p, char* ime, char* prezime, int ocjena);
+void addE(student* p, char* ime, char* prezime, int ocjena); //dodavanje na kraj
 void printList(student* p);
 void freeList(student* p);
 int findPass(student* p, char* ime, char* prezime);
@@ -137,7 +138,7 @@ int findPass(student* p, char* ime, char* prezime) {
 		
 	}
 
-	return 0; //ako uvjet od if nije ispunjen -> ako ne nade osobu
+	return 0; //ako uvjet od if nije ispunje,tj. ako ne nade osobu
 }
 
 void passAll(student* p1, student* p2, student* p3, student* r) {

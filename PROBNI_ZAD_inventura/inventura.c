@@ -41,6 +41,7 @@ typedef struct _item {
 void otvaranje(char* dat, Item* p);
 void lista(Item* p, char* naziv, int kolicina);
 void printList(Item* p);
+void freeList(Item* p);
 
 int main() {
 
@@ -49,6 +50,7 @@ int main() {
 
     otvaranje("inventura.txt", &Head);
     printList(&Head);
+    freeList(&Head);
 
     return 0;
 }
@@ -107,4 +109,16 @@ void printList(Item* p) {
         curr = curr->next;
     }
     printf("\n");
+}
+
+void freeList(Item* p) {
+    Item* curr = p->next;
+    Item* temp;
+    while (curr != NULL) {
+        temp = curr;
+        curr = curr->next;
+        free(temp);
+    }
+
+    p->next = NULL;
 }
