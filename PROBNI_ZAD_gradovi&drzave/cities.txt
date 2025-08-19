@@ -11,7 +11,7 @@ Angola	Namibe
 Sudan	ElBauga
 Albania	Patos_Fshat
 Cuba	Santa_Clara
-1Cuba	Bayamo
+Cuba	Bayamo
 Albania	Mollas
 Albania	Dardhas
 Chile	Corral

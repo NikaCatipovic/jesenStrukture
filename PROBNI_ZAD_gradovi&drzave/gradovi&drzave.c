@@ -36,28 +36,31 @@ typedef struct _cvisit {
 	VisitP Next;
 }Visit;
 
-void reading(char* dat, Visit* p);
+void readingTravel(char* dat, Visit* p);
 void addEnd(Visit* p, int dan, int misec, int godina, char* grad);
+void printList(Visit* p);
+void readingCities(char* dat, Visit* p);
+void findCity(Visit* p, char* grad, char* drzava);
+
 
 int main() {
 
 	struct _cvisit Head;
 	Head.Next = NULL;
 
-	FILE* fp = fopen("travel_data.txt", "r");
+	const char* data = "travel_data.txt";
+	const char* cit = "cities.txt";
 
-	char buffer[255];
-	int brojac;
-	while (fgets(buffer, 255, fp) != NULL) {
-		brojac++;
-	}
-	Date* datum;
-	datum = malloc(sizeof(Date)*brojac);
+	readingTravel(data, &Head);
+	readingCities(cit, &Head);
+	printList(&Head);
+
+
 
 	return 0;
 }
 
-void reading(char* dat, Visit* p) {
+void readingTravel(char* dat, Visit* p) {
 	FILE* fp = fopen(dat, "r");
 	if (fp == NULL) {
 		printf("Neuspjesno otvaranje datoteke!\n");
@@ -68,10 +71,11 @@ void reading(char* dat, Visit* p) {
 	char grad[20];
 	while (fgets(buffer, 255, fp)!=NULL){
 		sscanf(buffer, "%d.%d.%d	%s", &dan, &misec, &godina, grad);
+		addEnd(p, dan, misec, godina, grad);
 
 	}
 
-
+	fclose(fp);
 }
 
 void addEnd(Visit* p, int dan, int misec, int godina, char* grad) {
@@ -80,7 +84,56 @@ void addEnd(Visit* p, int dan, int misec, int godina, char* grad) {
 		printf("Pogresna alokacija memorije!\n");
 		exit(2);
 	}
+	strcpy(q->cityname, grad);
+	q->visitDate.day = dan;
+	q->visitDate.month = misec;
+	q->visitDate.year = godina;
+	Visit* curr = p;
+	while (curr->Next != NULL) {
+		curr = curr->Next;
+	}
+	curr->Next = q;
 	q->Next = NULL;
 
+}
+
+void printList(Visit* p) {
+	Visit* curr = p->Next;
+	while (curr != NULL) {
+		
+		printf("%d.%d.%d	%s %s\n", curr->visitDate.day, curr->visitDate.month, curr->visitDate.year, curr->cityname, curr->Country);
+		curr = curr->Next;
+	}
+	printf("\n");
+}
+
+void readingCities(char* dat, Visit* p) {
+	FILE* f = fopen(dat, "r");
+	if (f == NULL) {
+		printf("Neuspjesna alokacija memorije!\n");
+		exit(3);
+	}
+	char buffer[255];
+	char drzava[20];
+	char grad[20];
+	while (fgets(buffer, 255, f) != NULL) {
+		sscanf(buffer,"%s %s", drzava, grad);
+		findCity(p, grad, drzava);
+
+
+	}
+}
+
+void findCity(Visit* p, char* grad, char* drzava) {
+	Visit* curr = p->Next;
+	while (curr != NULL) {
+		if (strcmp(curr->cityname, grad) == 0) {
+
+			strcpy(curr->Country, drzava);
+		}
+
+
+		curr = curr->Next;
+	}
 
 }

@@ -1,0 +1,10 @@
+﻿  gradovi&drzave.c
+C:\Users\nikac\OneDrive\Radna površina\jesenStukture\PROBNI_ZAD_gradovi&drzave\gradovi&drzave.c(64,16): warning C4090: 'function': different 'const' qualifiers
+C:\Users\nikac\OneDrive\Radna površina\jesenStukture\PROBNI_ZAD_gradovi&drzave\gradovi&drzave.c(65,16): warning C4090: 'function': different 'const' qualifiers
+C:\Users\nikac\OneDrive\Radna površina\jesenStukture\PROBNI_ZAD_gradovi&drzave\gradovi&drzave.c(103,8): warning C4133: '=': incompatible types - from 'VisitP' to 'Visit *'
+C:\Users\nikac\OneDrive\Radna površina\jesenStukture\PROBNI_ZAD_gradovi&drzave\gradovi&drzave.c(105,13): warning C4133: '=': incompatible types - from 'Visit *' to 'VisitP'
+C:\Users\nikac\OneDrive\Radna površina\jesenStukture\PROBNI_ZAD_gradovi&drzave\gradovi&drzave.c(115,8): warning C4133: '=': incompatible types - from 'VisitP' to 'Visit *'
+C:\Users\nikac\OneDrive\Radna površina\jesenStukture\PROBNI_ZAD_gradovi&drzave\gradovi&drzave.c(111,9): warning C4133: 'initializing': incompatible types - from 'VisitP' to 'Visit *'
+C:\Users\nikac\OneDrive\Radna površina\jesenStukture\PROBNI_ZAD_gradovi&drzave\gradovi&drzave.c(146,8): warning C4133: '=': incompatible types - from 'VisitP' to 'Visit *'
+C:\Users\nikac\OneDrive\Radna površina\jesenStukture\PROBNI_ZAD_gradovi&drzave\gradovi&drzave.c(138,9): warning C4133: 'initializing': incompatible types - from 'VisitP' to 'Visit *'
+  PROBNI_ZAD_gradovi&drzave.vcxproj -> C:\Users\nikac\OneDrive\Radna površina\jesenStukture\PROBNI_ZAD_gradovi&drzave\x64\Debug\PROBNI_ZAD_gradovi&drzave.exe
