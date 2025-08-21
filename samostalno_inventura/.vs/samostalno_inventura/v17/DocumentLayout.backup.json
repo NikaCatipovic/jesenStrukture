@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\jesenStukture\\samostalno_inventura\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24F8A3CF-817D-4E50-8D7F-87CA65EC8060}|samostalno_inventura.vcxproj|C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\jesenStukture\\samostalno_inventura\\prvi_ispitni_rok.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{24F8A3CF-817D-4E50-8D7F-87CA65EC8060}|samostalno_inventura.vcxproj|solutionrelative:prvi_ispitni_rok.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F8A3CF-817D-4E50-8D7F-87CA65EC8060}|samostalno_inventura.vcxproj|C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\jesenStukture\\samostalno_inventura\\inventura.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{24F8A3CF-817D-4E50-8D7F-87CA65EC8060}|samostalno_inventura.vcxproj|solutionrelative:inventura.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "inventura.txt",
+              "DocumentMoniker": "C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\jesenStukture\\samostalno_inventura\\inventura.txt",
+              "RelativeDocumentMoniker": "inventura.txt",
+              "ToolTip": "C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\jesenStukture\\samostalno_inventura\\inventura.txt",
+              "RelativeToolTip": "inventura.txt",
+              "ViewState": "AgIAAKYAAAAAAAAAAAAuwMIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-08-21T10:38:07.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "prvi_ispitni_rok.c",
+              "DocumentMoniker": "C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\jesenStukture\\samostalno_inventura\\prvi_ispitni_rok.c",
+              "RelativeDocumentMoniker": "prvi_ispitni_rok.c",
+              "ToolTip": "C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\jesenStukture\\samostalno_inventura\\prvi_ispitni_rok.c",
+              "RelativeToolTip": "prvi_ispitni_rok.c",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAIwFkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-21T10:37:54.12Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
