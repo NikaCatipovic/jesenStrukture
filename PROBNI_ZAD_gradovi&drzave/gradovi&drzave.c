@@ -41,6 +41,7 @@ void addEnd(Visit* p, int dan, int misec, int godina, char* grad);
 void printList(Visit* p);
 void readingCities(char* dat, Visit* p);
 void findCity(Visit* p, char* grad, char* drzava);
+void deleteDate(Visit* p);
 
 
 int main() {
@@ -54,6 +55,9 @@ int main() {
 	readingTravel(data, &Head);
 	readingCities(cit, &Head);
 	printList(&Head);
+	deleteDate(&Head);
+	
+	
 
 
 
@@ -136,4 +140,33 @@ void findCity(Visit* p, char* grad, char* drzava) {
 		curr = curr->Next;
 	}
 
+}
+
+void deleteDate(Visit* p) {
+	int d_dan, d_misec, d_godina;
+	printf("Unesi datum: \n");
+	scanf("%d.%d.%d", &d_dan, &d_misec, &d_godina);
+
+	Visit* curr = p->Next;
+	Visit* prev = p;
+
+	while (curr != NULL) {
+		if (curr->visitDate.day == d_dan && curr->visitDate.month == d_misec && curr->visitDate.year == d_godina) {
+			printf("Odabran let za brisanje je	 %s %s\n", curr->cityname, curr->Country);
+			Visit* temp=curr;
+			curr = curr->Next;
+			prev->Next = curr;
+			
+			free(temp);
+			continue; //bez ovoga ne radi ispravno
+		}
+		prev = curr;
+		curr = curr->Next;
+		
+	}
+
+	printf("------------------------------\n");
+	
+	printf("NOVA LISTA: \n");
+	printList(p);
 }
