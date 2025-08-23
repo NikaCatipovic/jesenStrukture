@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\jesenStukture\\PONAVLJANJE_tri_predmeta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A56048C-D6B2-4687-B20E-5E13F87A8DA2}|PONAVLJANJE_tri_predmeta.vcxproj|C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\jesenStukture\\PONAVLJANJE_tri_predmeta\\ZAD_TriPredmeta.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0A56048C-D6B2-4687-B20E-5E13F87A8DA2}|PONAVLJANJE_tri_predmeta.vcxproj|solutionrelative:ZAD_TriPredmeta.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A56048C-D6B2-4687-B20E-5E13F87A8DA2}|PONAVLJANJE_tri_predmeta.vcxproj|C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\jesenStukture\\PONAVLJANJE_tri_predmeta\\elektronika.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0A56048C-D6B2-4687-B20E-5E13F87A8DA2}|PONAVLJANJE_tri_predmeta.vcxproj|solutionrelative:elektronika.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A56048C-D6B2-4687-B20E-5E13F87A8DA2}|PONAVLJANJE_tri_predmeta.vcxproj|C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\jesenStukture\\PONAVLJANJE_tri_predmeta\\fizika.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0A56048C-D6B2-4687-B20E-5E13F87A8DA2}|PONAVLJANJE_tri_predmeta.vcxproj|solutionrelative:fizika.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A56048C-D6B2-4687-B20E-5E13F87A8DA2}|PONAVLJANJE_tri_predmeta.vcxproj|C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\jesenStukture\\PONAVLJANJE_tri_predmeta\\matematika.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0A56048C-D6B2-4687-B20E-5E13F87A8DA2}|PONAVLJANJE_tri_predmeta.vcxproj|solutionrelative:matematika.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "elektronika.txt",
+              "DocumentMoniker": "C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\jesenStukture\\PONAVLJANJE_tri_predmeta\\elektronika.txt",
+              "RelativeDocumentMoniker": "elektronika.txt",
+              "ToolTip": "C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\jesenStukture\\PONAVLJANJE_tri_predmeta\\elektronika.txt",
+              "RelativeToolTip": "elektronika.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-08-23T07:46:09.765Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "fizika.txt",
+              "DocumentMoniker": "C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\jesenStukture\\PONAVLJANJE_tri_predmeta\\fizika.txt",
+              "RelativeDocumentMoniker": "fizika.txt",
+              "ToolTip": "C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\jesenStukture\\PONAVLJANJE_tri_predmeta\\fizika.txt",
+              "RelativeToolTip": "fizika.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-08-23T07:45:55.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "matematika.txt",
+              "DocumentMoniker": "C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\jesenStukture\\PONAVLJANJE_tri_predmeta\\matematika.txt",
+              "RelativeDocumentMoniker": "matematika.txt",
+              "ToolTip": "C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\jesenStukture\\PONAVLJANJE_tri_predmeta\\matematika.txt",
+              "RelativeToolTip": "matematika.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-08-23T07:45:40.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ZAD_TriPredmeta.c",
+              "DocumentMoniker": "C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\jesenStukture\\PONAVLJANJE_tri_predmeta\\ZAD_TriPredmeta.c",
+              "RelativeDocumentMoniker": "ZAD_TriPredmeta.c",
+              "ToolTip": "C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\jesenStukture\\PONAVLJANJE_tri_predmeta\\ZAD_TriPredmeta.c",
+              "RelativeToolTip": "ZAD_TriPredmeta.c",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-23T07:45:26.647Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
