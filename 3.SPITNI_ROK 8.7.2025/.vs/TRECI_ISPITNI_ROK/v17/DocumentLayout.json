@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\jesenStukture\\TRECI_ISPITNI_ROK\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C2E098A-4C76-4FC9-8603-8E1E55A40C39}|TRECI_ISPITNI_ROK.vcxproj|C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\jesenStukture\\TRECI_ISPITNI_ROK\\08.07.2025.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0C2E098A-4C76-4FC9-8603-8E1E55A40C39}|TRECI_ISPITNI_ROK.vcxproj|solutionrelative:08.07.2025.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C2E098A-4C76-4FC9-8603-8E1E55A40C39}|TRECI_ISPITNI_ROK.vcxproj|C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\jesenStukture\\TRECI_ISPITNI_ROK\\studenti.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0C2E098A-4C76-4FC9-8603-8E1E55A40C39}|TRECI_ISPITNI_ROK.vcxproj|solutionrelative:studenti.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C2E098A-4C76-4FC9-8603-8E1E55A40C39}|TRECI_ISPITNI_ROK.vcxproj|C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\jesenStukture\\TRECI_ISPITNI_ROK\\predmet2.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0C2E098A-4C76-4FC9-8603-8E1E55A40C39}|TRECI_ISPITNI_ROK.vcxproj|solutionrelative:predmet2.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C2E098A-4C76-4FC9-8603-8E1E55A40C39}|TRECI_ISPITNI_ROK.vcxproj|C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\jesenStukture\\TRECI_ISPITNI_ROK\\predmet1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0C2E098A-4C76-4FC9-8603-8E1E55A40C39}|TRECI_ISPITNI_ROK.vcxproj|solutionrelative:predmet1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "studenti.txt",
+              "DocumentMoniker": "C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\jesenStukture\\TRECI_ISPITNI_ROK\\studenti.txt",
+              "RelativeDocumentMoniker": "studenti.txt",
+              "ToolTip": "C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\jesenStukture\\TRECI_ISPITNI_ROK\\studenti.txt",
+              "RelativeToolTip": "studenti.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-08-23T20:34:03.351Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "predmet2.txt",
+              "DocumentMoniker": "C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\jesenStukture\\TRECI_ISPITNI_ROK\\predmet2.txt",
+              "RelativeDocumentMoniker": "predmet2.txt",
+              "ToolTip": "C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\jesenStukture\\TRECI_ISPITNI_ROK\\predmet2.txt",
+              "RelativeToolTip": "predmet2.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-08-23T20:44:24.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "predmet1.txt",
+              "DocumentMoniker": "C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\jesenStukture\\TRECI_ISPITNI_ROK\\predmet1.txt",
+              "RelativeDocumentMoniker": "predmet1.txt",
+              "ToolTip": "C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\jesenStukture\\TRECI_ISPITNI_ROK\\predmet1.txt",
+              "RelativeToolTip": "predmet1.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-08-23T20:36:06.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "08.07.2025.c",
+              "DocumentMoniker": "C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\jesenStukture\\TRECI_ISPITNI_ROK\\08.07.2025.c",
+              "RelativeDocumentMoniker": "08.07.2025.c",
+              "ToolTip": "C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\jesenStukture\\TRECI_ISPITNI_ROK\\08.07.2025.c",
+              "RelativeToolTip": "08.07.2025.c",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAEcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-23T19:38:42.229Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
