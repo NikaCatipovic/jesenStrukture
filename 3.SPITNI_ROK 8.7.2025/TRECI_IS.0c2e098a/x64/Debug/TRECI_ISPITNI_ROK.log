@@ -1,31 +1,31 @@
 ﻿  08.07.2025.c
-C:\Users\nikac\OneDrive\Radna površina\jesenStukture\TRECI_ISPITNI_ROK\08.07.2025.c(50,2): error C2061: syntax error: identifier 'Date'
-C:\Users\nikac\OneDrive\Radna površina\jesenStukture\TRECI_ISPITNI_ROK\08.07.2025.c(52,1): error C2059: syntax error: '}'
-C:\Users\nikac\OneDrive\Radna površina\jesenStukture\TRECI_ISPITNI_ROK\08.07.2025.c(61,40): error C2143: syntax error: missing ')' before '*'
-C:\Users\nikac\OneDrive\Radna površina\jesenStukture\TRECI_ISPITNI_ROK\08.07.2025.c(61,33): error C2081: 'Student': name in formal parameter list illegal
-C:\Users\nikac\OneDrive\Radna površina\jesenStukture\TRECI_ISPITNI_ROK\08.07.2025.c(61,40): error C2143: syntax error: missing '{' before '*'
-C:\Users\nikac\OneDrive\Radna površina\jesenStukture\TRECI_ISPITNI_ROK\08.07.2025.c(61,43): error C2059: syntax error: ')'
-C:\Users\nikac\OneDrive\Radna površina\jesenStukture\TRECI_ISPITNI_ROK\08.07.2025.c(62,31): error C2143: syntax error: missing ')' before '*'
-C:\Users\nikac\OneDrive\Radna površina\jesenStukture\TRECI_ISPITNI_ROK\08.07.2025.c(62,31): error C2143: syntax error: missing '{' before '*'
-C:\Users\nikac\OneDrive\Radna površina\jesenStukture\TRECI_ISPITNI_ROK\08.07.2025.c(62,36): error C2059: syntax error: 'type'
-C:\Users\nikac\OneDrive\Radna površina\jesenStukture\TRECI_ISPITNI_ROK\08.07.2025.c(62,72): error C2059: syntax error: ')'
-C:\Users\nikac\OneDrive\Radna površina\jesenStukture\TRECI_ISPITNI_ROK\08.07.2025.c(63,19): error C2143: syntax error: missing ')' before '*'
-C:\Users\nikac\OneDrive\Radna površina\jesenStukture\TRECI_ISPITNI_ROK\08.07.2025.c(63,19): error C2143: syntax error: missing '{' before '*'
-C:\Users\nikac\OneDrive\Radna površina\jesenStukture\TRECI_ISPITNI_ROK\08.07.2025.c(63,22): error C2059: syntax error: ')'
-C:\Users\nikac\OneDrive\Radna površina\jesenStukture\TRECI_ISPITNI_ROK\08.07.2025.c(67,18): error C2079: 'Head' uses undefined struct '_student'
-C:\Users\nikac\OneDrive\Radna površina\jesenStukture\TRECI_ISPITNI_ROK\08.07.2025.c(68,7): error C2224: left of '.next' must have struct/union type
-C:\Users\nikac\OneDrive\Radna površina\jesenStukture\TRECI_ISPITNI_ROK\08.07.2025.c(71,2): warning C4013: 'otvaranje' undefined; assuming extern returning int
-C:\Users\nikac\OneDrive\Radna površina\jesenStukture\TRECI_ISPITNI_ROK\08.07.2025.c(72,2): warning C4013: 'ispis' undefined; assuming extern returning int
-C:\Users\nikac\OneDrive\Radna površina\jesenStukture\TRECI_ISPITNI_ROK\08.07.2025.c(77,40): error C2143: syntax error: missing ')' before '*'
-C:\Users\nikac\OneDrive\Radna površina\jesenStukture\TRECI_ISPITNI_ROK\08.07.2025.c(77,33): error C2081: 'Student': name in formal parameter list illegal
-C:\Users\nikac\OneDrive\Radna površina\jesenStukture\TRECI_ISPITNI_ROK\08.07.2025.c(77,40): error C2143: syntax error: missing '{' before '*'
-C:\Users\nikac\OneDrive\Radna površina\jesenStukture\TRECI_ISPITNI_ROK\08.07.2025.c(77,43): error C2059: syntax error: ')'
-C:\Users\nikac\OneDrive\Radna površina\jesenStukture\TRECI_ISPITNI_ROK\08.07.2025.c(77,42): error C2054: expected '(' to follow 'p'
-C:\Users\nikac\OneDrive\Radna površina\jesenStukture\TRECI_ISPITNI_ROK\08.07.2025.c(93,31): error C2143: syntax error: missing ')' before '*'
-C:\Users\nikac\OneDrive\Radna površina\jesenStukture\TRECI_ISPITNI_ROK\08.07.2025.c(93,31): error C2143: syntax error: missing '{' before '*'
-C:\Users\nikac\OneDrive\Radna površina\jesenStukture\TRECI_ISPITNI_ROK\08.07.2025.c(93,36): error C2059: syntax error: 'type'
-C:\Users\nikac\OneDrive\Radna površina\jesenStukture\TRECI_ISPITNI_ROK\08.07.2025.c(93,72): error C2059: syntax error: ')'
-C:\Users\nikac\OneDrive\Radna površina\jesenStukture\TRECI_ISPITNI_ROK\08.07.2025.c(117,19): error C2143: syntax error: missing ')' before '*'
-C:\Users\nikac\OneDrive\Radna površina\jesenStukture\TRECI_ISPITNI_ROK\08.07.2025.c(117,19): error C2143: syntax error: missing '{' before '*'
-C:\Users\nikac\OneDrive\Radna površina\jesenStukture\TRECI_ISPITNI_ROK\08.07.2025.c(117,22): error C2059: syntax error: ')'
-C:\Users\nikac\OneDrive\Radna površina\jesenStukture\TRECI_ISPITNI_ROK\08.07.2025.c(117,21): error C2054: expected '(' to follow 'p'
+C:\Users\nikac\OneDrive\Radna površina\jesenStukture\3.SPITNI_ROK 8.7.2025\08.07.2025.c(50,2): error C2061: syntax error: identifier 'Date'
+C:\Users\nikac\OneDrive\Radna površina\jesenStukture\3.SPITNI_ROK 8.7.2025\08.07.2025.c(52,1): error C2059: syntax error: '}'
+C:\Users\nikac\OneDrive\Radna površina\jesenStukture\3.SPITNI_ROK 8.7.2025\08.07.2025.c(61,40): error C2143: syntax error: missing ')' before '*'
+C:\Users\nikac\OneDrive\Radna površina\jesenStukture\3.SPITNI_ROK 8.7.2025\08.07.2025.c(61,33): error C2081: 'Student': name in formal parameter list illegal
+C:\Users\nikac\OneDrive\Radna površina\jesenStukture\3.SPITNI_ROK 8.7.2025\08.07.2025.c(61,40): error C2143: syntax error: missing '{' before '*'
+C:\Users\nikac\OneDrive\Radna površina\jesenStukture\3.SPITNI_ROK 8.7.2025\08.07.2025.c(61,43): error C2059: syntax error: ')'
+C:\Users\nikac\OneDrive\Radna površina\jesenStukture\3.SPITNI_ROK 8.7.2025\08.07.2025.c(62,31): error C2143: syntax error: missing ')' before '*'
+C:\Users\nikac\OneDrive\Radna površina\jesenStukture\3.SPITNI_ROK 8.7.2025\08.07.2025.c(62,31): error C2143: syntax error: missing '{' before '*'
+C:\Users\nikac\OneDrive\Radna površina\jesenStukture\3.SPITNI_ROK 8.7.2025\08.07.2025.c(62,36): error C2059: syntax error: 'type'
+C:\Users\nikac\OneDrive\Radna površina\jesenStukture\3.SPITNI_ROK 8.7.2025\08.07.2025.c(62,72): error C2059: syntax error: ')'
+C:\Users\nikac\OneDrive\Radna površina\jesenStukture\3.SPITNI_ROK 8.7.2025\08.07.2025.c(63,19): error C2143: syntax error: missing ')' before '*'
+C:\Users\nikac\OneDrive\Radna površina\jesenStukture\3.SPITNI_ROK 8.7.2025\08.07.2025.c(63,19): error C2143: syntax error: missing '{' before '*'
+C:\Users\nikac\OneDrive\Radna površina\jesenStukture\3.SPITNI_ROK 8.7.2025\08.07.2025.c(63,22): error C2059: syntax error: ')'
+C:\Users\nikac\OneDrive\Radna površina\jesenStukture\3.SPITNI_ROK 8.7.2025\08.07.2025.c(67,18): error C2079: 'Head' uses undefined struct '_student'
+C:\Users\nikac\OneDrive\Radna površina\jesenStukture\3.SPITNI_ROK 8.7.2025\08.07.2025.c(68,7): error C2224: left of '.next' must have struct/union type
+C:\Users\nikac\OneDrive\Radna površina\jesenStukture\3.SPITNI_ROK 8.7.2025\08.07.2025.c(71,2): warning C4013: 'otvaranje' undefined; assuming extern returning int
+C:\Users\nikac\OneDrive\Radna površina\jesenStukture\3.SPITNI_ROK 8.7.2025\08.07.2025.c(72,2): warning C4013: 'ispis' undefined; assuming extern returning int
+C:\Users\nikac\OneDrive\Radna površina\jesenStukture\3.SPITNI_ROK 8.7.2025\08.07.2025.c(77,40): error C2143: syntax error: missing ')' before '*'
+C:\Users\nikac\OneDrive\Radna površina\jesenStukture\3.SPITNI_ROK 8.7.2025\08.07.2025.c(77,33): error C2081: 'Student': name in formal parameter list illegal
+C:\Users\nikac\OneDrive\Radna površina\jesenStukture\3.SPITNI_ROK 8.7.2025\08.07.2025.c(77,40): error C2143: syntax error: missing '{' before '*'
+C:\Users\nikac\OneDrive\Radna površina\jesenStukture\3.SPITNI_ROK 8.7.2025\08.07.2025.c(77,43): error C2059: syntax error: ')'
+C:\Users\nikac\OneDrive\Radna površina\jesenStukture\3.SPITNI_ROK 8.7.2025\08.07.2025.c(77,42): error C2054: expected '(' to follow 'p'
+C:\Users\nikac\OneDrive\Radna površina\jesenStukture\3.SPITNI_ROK 8.7.2025\08.07.2025.c(93,31): error C2143: syntax error: missing ')' before '*'
+C:\Users\nikac\OneDrive\Radna površina\jesenStukture\3.SPITNI_ROK 8.7.2025\08.07.2025.c(93,31): error C2143: syntax error: missing '{' before '*'
+C:\Users\nikac\OneDrive\Radna površina\jesenStukture\3.SPITNI_ROK 8.7.2025\08.07.2025.c(93,36): error C2059: syntax error: 'type'
+C:\Users\nikac\OneDrive\Radna površina\jesenStukture\3.SPITNI_ROK 8.7.2025\08.07.2025.c(93,72): error C2059: syntax error: ')'
+C:\Users\nikac\OneDrive\Radna površina\jesenStukture\3.SPITNI_ROK 8.7.2025\08.07.2025.c(117,19): error C2143: syntax error: missing ')' before '*'
+C:\Users\nikac\OneDrive\Radna površina\jesenStukture\3.SPITNI_ROK 8.7.2025\08.07.2025.c(117,19): error C2143: syntax error: missing '{' before '*'
+C:\Users\nikac\OneDrive\Radna površina\jesenStukture\3.SPITNI_ROK 8.7.2025\08.07.2025.c(117,22): error C2059: syntax error: ')'
+C:\Users\nikac\OneDrive\Radna površina\jesenStukture\3.SPITNI_ROK 8.7.2025\08.07.2025.c(117,21): error C2054: expected '(' to follow 'p'

@@ -94,7 +94,7 @@ void sortiraniStudenti(Student* p, char* prezime, char* ime, char* JMBS) {
 	Student* prev = p;
 	Student* curr = p->next;
 	
-	while (curr != NULL && strcmp(curr->lastName, prezime) < 0 && strcmp(curr->firstName, ime) < 0){
+	while (curr != NULL && (strcmp(curr->lastName, prezime) < 0 || strcmp(curr->lastName, prezime) ==0 && strcmp(curr->firstName, ime) < 0)) {
 
 		prev = curr;
 		curr = curr->next;
