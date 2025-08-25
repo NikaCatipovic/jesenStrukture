@@ -42,6 +42,7 @@ void printList(Visit* p);
 void readingCities(char* dat, Visit* p);
 void findCity(Visit* p, char* grad, char* drzava);
 void deleteDate(Visit* p);
+void freeList(Visit* p);
 
 
 int main() {
@@ -56,6 +57,7 @@ int main() {
 	readingCities(cit, &Head);
 	printList(&Head);
 	deleteDate(&Head);
+	freeList(&Head);
 	
 	
 
@@ -169,4 +171,14 @@ void deleteDate(Visit* p) {
 	
 	printf("NOVA LISTA: \n");
 	printList(p);
+}
+
+void freeList(Visit* p) {
+	Visit* curr = p->Next;
+	Visit* temp;
+	while (curr != NULL) {
+		temp = curr;
+		curr = curr->Next;
+		free(temp);
+	}
 }
