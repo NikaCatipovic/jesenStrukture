@@ -48,12 +48,15 @@ void freeList(Student* p);
 void otvaranjePredmet(const char* dat,Student* p);
 void pretrazivanjeID(Student* p, int ID, int ocjena);
 void ocjena2(Student* p);
+void ocjena3(Student* p, Student* p1);
 
 
 int main() {
 
 	struct _student Head;
 	Head.Next = NULL;
+	struct _student Head1;
+	Head1.Next = NULL;
 
 	const char* file = "Studenti.txt";
 	const char* dat = "Predmet1.txt";
@@ -65,6 +68,14 @@ int main() {
 	ocjena2(&Head);
 	printf("NOVA LISTA: \n");
 	ispisListe(&Head);
+	ocjena3(&Head, &Head1);
+	printf("------------------------\n");
+	printf("Studenti koji su prosli: \n");
+	ispisListe(&Head1);
+	printf("------------------------\n");
+	printf("Studenti koji nisu prosli: \n");
+	ispisListe(&Head);
+
 
 
 	return 0;
@@ -174,5 +185,24 @@ void ocjena2(Student* p) {
 	}
 	printf("Odabrani student/ica ne postoji u listi!\n");
 	
+}
+
+void ocjena3(Student* p, Student* p1) {
+	Student* prev = p;
+	Student* curr = p->Next;
+	Student* sec = p1;
+	while (curr != NULL) {
+		if (curr->grade >= 2) {
+			prev->Next = curr->Next;
+			sec->Next = curr;
+			curr->Next = NULL;
+			sec = sec->Next;
+			curr = prev->Next;
+		}
+		else {
+			prev = curr;
+			curr = curr->Next;
+		}
+	}
 }
 	

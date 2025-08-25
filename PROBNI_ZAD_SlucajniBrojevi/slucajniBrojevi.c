@@ -31,7 +31,7 @@ int main() {
 	struct _number Head;
 	Head.next = NULL;
 
-	srand((unsigned)time(NULL));  //NIKA NE SMIS OVO ZABORAVIT!
+	srand((unsigned)time(NULL));  //NIKA NE SMIS OVO ZABORAVIT! za drugu brojevnu bazu da ti svaki put generira razlicite brojeve
 	addEnd(&Head);
 	printList(&Head);
 

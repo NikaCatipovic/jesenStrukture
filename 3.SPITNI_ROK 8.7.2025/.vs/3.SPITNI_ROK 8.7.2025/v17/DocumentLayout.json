@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "08.07.2025.c",
               "ToolTip": "C:\\Users\\nikac\\OneDrive\\Radna povr\u0161ina\\jesenStukture\\3.SPITNI_ROK 8.7.2025\\08.07.2025.c",
               "RelativeToolTip": "08.07.2025.c",
-              "ViewState": "AgIAAFMAAAAAAAAAAAAgwGkAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-08-25T08:32:45.293Z",
               "EditorCaption": ""
@@ -51,8 +51,7 @@
               "RelativeToolTip": "predmet2.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-08-24T13:59:08.647Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-24T13:59:08.647Z"
             },
             {
               "$type": "Document",
@@ -64,8 +63,7 @@
               "RelativeToolTip": "predmet1.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-08-24T13:59:01.174Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-24T13:59:01.174Z"
             },
             {
               "$type": "Document",
@@ -77,8 +75,7 @@
               "RelativeToolTip": "studenti.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-08-24T13:58:16.319Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-24T13:58:16.319Z"
             }
           ]
         }

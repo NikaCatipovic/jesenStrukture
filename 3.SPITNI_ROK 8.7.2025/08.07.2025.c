@@ -40,6 +40,13 @@ na taj datum. Ispisati novu vezanu listu.
 #include <string.h>
 #define MAX_NAME_LEN (32)
 
+struct _date;
+typedef struct _date {
+	int year;
+	int month;
+	int day;
+} Date;
+
 struct _student;
 typedef struct _student* StudentP;
 typedef struct _student {
@@ -51,12 +58,7 @@ typedef struct _student {
 	StudentP next;  //ja dodala
 }Student;
 
-struct _date;
-typedef struct _date {
-	int year;
-	int month;
-	int day;
-} Date;
+
 
 void otvaranje(const char* dat, Student* p);
 void sortiraniStudenti(Student* p, char* prezime, char* ime, char* JMBS);
@@ -81,7 +83,7 @@ void otvaranje(const char* dat, Student* p) {
 		exit(1);
 	}
 	char buffer[255];
-	char JMBS, ime, prezime;
+	char JMBS[256], ime[256], prezime[256];
 	while (fgets(buffer, 255, fp) != NULL) {
 		sscanf(buffer, "%s %s %s", prezime, ime, JMBS);
 		sortiraniStudenti(p, prezime, ime, JMBS);
