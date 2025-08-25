@@ -19,10 +19,14 @@ typedef struct _item {
 
 Ocjena 2: ispisati ucitanu vezanu listu u formatu :
 Tipkovnica 3
-
 Miš 2
 Zvucnik 1
 …
+
+Ocjena 3: Prosiriti strukturu iz prethodnoh dijela
+zadatka tako da se uzima u obzir i vrijednosna cijena opreme.
+Napomena - cijene opreme istog naziva ne moraju nuzno biti
+jednake, u tom slucaju se dodaje novi cvor liste.
 */
 
 #define _CRT_SECURE_NO_WARNINGS
